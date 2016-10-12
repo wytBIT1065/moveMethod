@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\z\Desktop\研二\研二下\movemethod\毕设\rename\代码\renameExpander source code\renameExpander source code"/>
+			<item value="C:\Users\z\Desktop\研二\研二下\movemethod\毕设\rename\代码\renameExpander source code\renameExpander source code\RenameExpand"/>
+			<item value="C:\Users\z\Desktop\研二\研二下\movemethod\毕设\rename\代码\renameExpander source code"/>
+			<item value="C:\Users\z\Desktop\研二\研二下\movemethod\eclipse che\eclipse che 按住那个\孙锐SWRefactor"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="536" key="DIALOG_X_ORIGIN"/>
+		<item value="301" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
